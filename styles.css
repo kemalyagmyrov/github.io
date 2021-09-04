@@ -16,9 +16,10 @@ margin-top: 7px;
 display: block;
 width: 100%;
 color: black;
+border: 2px solid blue
 }
 a:link {
-color: green;
+color: rgb(233, 180, 36);
 background-color: transparent;
 text-decoration: none;
 }
