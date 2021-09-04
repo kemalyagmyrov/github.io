@@ -17,6 +17,16 @@ display: block;
 width: 100%;
 color: black;
 }
+a:link {
+color: green;
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: greenyellow;
+background-color: transparent;
+text-decoration: underline;
+}
 .main {
     float: left;
     width: 60%
