@@ -1,3 +1,6 @@
+ * {
+     border-sizing: border-box;
+ }
 body {
     background-color: #5c5252e8;
 }
