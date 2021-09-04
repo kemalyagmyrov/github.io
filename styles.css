@@ -38,7 +38,7 @@ text-decoration: underline;
 }
 .right {
     background-color: rgb(210, 210, 240);
-    float: right;
+    float: left;
     width: 20%;
     padding: 15px;
     margin-top: 7px;
