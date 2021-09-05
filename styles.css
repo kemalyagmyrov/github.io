@@ -7,10 +7,12 @@
 }
 .navigation {
     float: left;
-    display:block;
     text-align: center;
     background-color: #bbb;
     width: 20%;
+}
+.navigation a {
+    display: block;
 }
 .main {
     float: left;
