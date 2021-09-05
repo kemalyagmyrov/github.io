@@ -1,12 +1,23 @@
 * {
   box-sizing: border-box;  
 }
+.head {
+    text-align: center;
+    background-color: #aaa;
+}
 .navigation {
     float: left;
+    display:block;
+    text-align: center;
+    background-color: #bbb;
 }
 .main {
     float: left;
+    text-align: center;
+    background-color: #ccc;
 }
 .right {
     float: left;
+    text-align: center;
+    background-color: #ddd;
 }
