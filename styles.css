@@ -5,29 +5,24 @@
     text-align: center;
     background-color: #aaa;
 }
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-}
 .navigation {
+    width: 20%;
     float: left;
     text-align: center;
     background-color: #bbb;
-    width: 20%;
 }
 .navigation a {
     display: block;
 }
 .main {
+    width: 60%;
     float: left;
     text-align: center;
     background-color: #ccc;
-    width: 60%;
 }
 .right {
+    width: 20%;
     float: left;
     text-align: center;
     background-color: #ddd;
-    width: 20%;
 }
