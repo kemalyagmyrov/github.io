@@ -10,9 +10,11 @@
     float: left;
     text-align: center;
     background-color: #bbb;
+    height: auto;
 }
 .navigation a {
     display: block;
+    margin-bottom: 7px;
 }
 .main {
     width: 60%;
