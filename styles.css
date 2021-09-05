@@ -5,6 +5,11 @@
     text-align: center;
     background-color: #aaa;
 }
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 .navigation {
     width: 20%;
     float: left;
