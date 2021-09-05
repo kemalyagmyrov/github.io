@@ -10,14 +10,17 @@
     display:block;
     text-align: center;
     background-color: #bbb;
+    width: 20%;
 }
 .main {
     float: left;
     text-align: center;
     background-color: #ccc;
+    width: 60%;
 }
 .right {
     float: left;
     text-align: center;
     background-color: #ddd;
+    width: 20%;
 }
